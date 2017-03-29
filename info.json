@@ -2,7 +2,7 @@
     "type": [ "Extension" ],
     "provider": [ "IBM" ],
     "software": [ "SPSS Statistics" ],
-    "language": [ "Java" ],
+    "language": [ "" ],
     "category": [ "Utility" ],
     "promotion": [ "No" ]
 }
